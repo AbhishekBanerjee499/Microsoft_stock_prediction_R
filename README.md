@@ -22,7 +22,7 @@
 | --- | --- | --- | --- |
 | **ARIMA** | 0.034 | 0.032 | 0.589 |
 | **Decision Tree** | 0.029 | 0.024 | 0.438 |
-| **Decision Tree** | 0.069 | 0.060 | 1.107 |
+| **GARCH** | 0.069 | 0.060 | 1.107 |
 
 **FIndings and Recommendations**
 * Microsoft stock is increasing rapidly in the period 2020-21 and a similar or even better rise is expected in the near future from the given period.
